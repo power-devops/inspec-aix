@@ -1,0 +1,9 @@
+name: inspec-aix
+title: InSpec IBM AIX resource pack
+maintainer: Andrey Klyachkin
+copyright: eNFence GmbH, 2020
+copyright_email: info@power-devops.com
+license: MIT
+version: 1.2.1
+inspec_version: ">= 3.6.0"
+summary: Resources to audit AIX servers
